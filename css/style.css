@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 共通部分
+--------------------------*/
+html{
+	font-size: 100%;
+}
+
+body{
+	
+}
+
+/* HEADER
+--------------------------*/
+.logo{
+	width:15px;
+	margin-top: 14px;
+}
