@@ -6,12 +6,16 @@ html{
 }
 
 body{
-	
+	background-color: #111B25;
+	color: #FFFFFF;
 }
 
 /* HEADER
 --------------------------*/
 .logo{
-	width:50px;
+	width:150px;
 	margin-top: 5px;
 }
+
+/* NAV
+--------------------------*/
