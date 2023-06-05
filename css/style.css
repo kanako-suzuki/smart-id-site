@@ -62,7 +62,7 @@ html{
 body{
 	background-color: #111B25;
 	color: #FFFFFF;
-	font-family:"Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "sans-serif"
+	font-family:"Hiragino Sans", "Hiragino Kaku Gothic ProN", "Meiryo", "sans-serif"
 }
 
 /* HEADER------------------
@@ -79,9 +79,8 @@ body{
 	list-style: none;		
 }
 .wrapper{
-	max-width: 1100px;
+	max-width: 1300px;
 	margin: 0 auto;
-	padding: 0 1%;
 }
 nav ul li a{
 	margin: 10px;
@@ -97,32 +96,29 @@ nav ul li a{
 /* main visual wrapper-----
 --------------------------*/
 .main_visual{
-	max-height: 1003px;
-	width:1283px;
+	min-height: 100vh;
+	background-image: url("../images/main visual@2x.png");
+	background-size: cover;
+	width:100%;
 	display: flex;
 	justify-content: space-between;
+	
 }
-/* main image--------------
---------------------------*/
-.main_image{
-	height: 100%;
-	width:100%;
-}
-/* main visual title-------
---------------------------*/
-.main_visual h1 {
+.main_text h1{
 	font-size: 50px;
-	padding:110px 215px 95px;
+	padding: 116px 0 0 194px;
 }
+
 .main_visual p{
 		font-size: 25px;
 	text-align: center;
+	padding: 75px 0 0 107px;
 }
 .btn{
+	padding: 74px 0 0 195px;
 	width: 212px;
-	height: 52px;
-	padding:100px 0 0 180px;
 }
 .download{
-	
+	padding: 507px 10px 0 0;
+	width: 334px;
 }
