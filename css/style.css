@@ -162,8 +162,9 @@ a:hover {
 .description{
 	font-size: 23px;
 	width: 50%;
-	padding:70px 0 0 0 ;
 	text-align: justify;
+	display: flex;
+	align-items: center;
 	line-height: 2;
 }
 
@@ -185,8 +186,12 @@ a:hover {
 	font-size: 20px;
 	padding: 50px;
 }
+.title{
+	font-size: 25px;
+	padding-bottom: 30px;
+}
 .item p{
-	padding: 10px;
+	padding-top: 20px;
 }
 .border-b{
 	border-bottom: 1px solid;
