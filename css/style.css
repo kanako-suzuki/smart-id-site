@@ -143,6 +143,7 @@ a:hover {
     background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
+	padding: 100px;
 }
 
 .smart_id h1{
