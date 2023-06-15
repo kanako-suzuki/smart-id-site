@@ -200,15 +200,17 @@ a:hover {
 .border-r{
 	border-right: 1px solid;
 }
-
+.container{
+	padding-bottom: 50px;
+}
 /* download2-----
 --------------------------------------------------------------------------*/
 .download2{
 	font-size: 30px;
-	padding: 100px;
+	padding: 50px;
 }
 .download2 img{
-	padding: 50px;
+	padding-top: 50px;
 	width: 334px;
 }
 /* about us-----
