@@ -181,6 +181,7 @@ a:hover {
 .wrapper-grid{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	
 }
 .item{
 	font-size: 20px;
@@ -212,11 +213,23 @@ a:hover {
 }
 /* about us-----
 --------------------------------------------------------------------------*/
+.about_title{
+	font-size: 40px;
+}
 #about_us{
-	font-size: 26px;
-	width: 90%;
+    padding: 50px;
+	margin: 50px;
 	border: 1px solid;
+}
+#about_us div{
+	display: flex;
+	text-align: justify;
+	align-items: center;
 }
 #about_us img{
 	width: 30%;
+}
+#about-us p{
+	padding: 10px;
+	font-size: 25px;
 }
