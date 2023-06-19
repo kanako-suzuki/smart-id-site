@@ -228,10 +228,15 @@ a:hover {
 	text-align: justify;
 	align-items: center;
 }
-#about_us img{
-	width: 30%;
+#about_us img{ 
+	width: 300px;   
 }
 #about-us p{
 	padding: 10px;
 	font-size: 25px;
+}
+/* footer-----
+--------------------------------------------------------------------------*/
+footer{
+	display: flex;
 }
