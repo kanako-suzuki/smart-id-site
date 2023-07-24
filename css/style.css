@@ -196,6 +196,7 @@ a:hover {
 }
 .border-b{
 	border-bottom: 1px solid;
+	
 }
 .border-r{
 	border-right: 1px solid;
@@ -222,6 +223,7 @@ a:hover {
     padding: 50px;
 	margin: 50px;
 	border: 1px solid;
+	border-radius: 30px;
 }
 #about_us div{
 	display: flex;
@@ -229,7 +231,8 @@ a:hover {
 	align-items: center;
 }
 #about_us img{ 
-	width: 300px;   
+	width: 250px;   
+	margin-right: 30px;
 }
 #about-us p{
 	padding: 10px;
@@ -237,6 +240,10 @@ a:hover {
 }
 /* footer-----
 --------------------------------------------------------------------------*/
-footer{
+.footer{
 	display: flex;
+}
+
+.download_botan{
+	width: 200px;
 }
