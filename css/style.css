@@ -102,11 +102,10 @@ a:hover {
 /* main visual wrapper-----
    ------------------------------------------------------------*/
 .main_visual{
-	
+	min-height: 100vh;
 	background-image: url("../images/main visual@2x.png");
 	background-repeat:no-repeat;
-	background-size: cover;
-	min-height: 100vh;
+	background-size: contain;
 	width:100%;
 	display: flex;
 	justify-content: space-between;
