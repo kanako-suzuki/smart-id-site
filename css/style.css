@@ -242,8 +242,13 @@ a:hover {
 --------------------------------------------------------------------------*/
 .footer{
 	display: flex;
+	justify-content: space-between;
 }
-
+.smartmeisi{
+	text-align: left;
+	margin-left: 50px;
+}
 .download_botan{
 	width: 200px;
+	margin-left: 25px;
 }
