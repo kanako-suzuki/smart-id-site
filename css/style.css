@@ -102,8 +102,7 @@ a:hover {
 /* main visual wrapper-----
    ------------------------------------------------------------*/
 .main_visual{
-	min-height: 100vh;
-	background-image: url("../images/main visual@2x.png");
+		background-image: url("../images/main visual@2x.png");
 	background-repeat:no-repeat;
 	background-size: contain;
 	width:100%;
@@ -112,16 +111,16 @@ a:hover {
 	
 }
 .main_text{
-	padding: 0 50px;
+	padding: 0 10px;
 }
 .main_text h1{
 	font-size: 50px;
-	padding: 100px 0 50px 0;
+	padding: 50px 0 50px 0;
 }
 
 .main_visual p{
 		font-size: 25px;
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 }
 .btn{
 	width: 212px;
