@@ -208,7 +208,6 @@ a:hover {
 .detail{
 	padding: 50px;
 	font-size: 25px;
-	margin-bottom: 100px;
 }
 .detail img{
 	width: 100px;
@@ -239,7 +238,13 @@ a:hover {
 	margin-bottom: 50px;
 }
 
-
+.detail_wrapper{
+	background-image:url("../images/gradation.png");
+    background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	padding: 6%;
+}
 
 
 /* download2-----
