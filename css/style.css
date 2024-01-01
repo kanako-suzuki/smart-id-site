@@ -203,6 +203,32 @@ a:hover {
 .container{
 	padding-bottom: 50px;
 }
+/* detail-----
+--------------------------------------------------------------------------*/
+.detail img{
+	width: 100px;
+	
+}
+.meishi_sakusei{
+	display: flex;
+	justify-content: space-between;
+}
+.qrcode_meishikoukann{
+	display: flex;
+	justify-content: space-between;
+}
+.data_security{
+	display: flex;
+	justify-content: space-between;
+}
+.tsunagari{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+
+
 /* download2-----
 --------------------------------------------------------------------------*/
 .download2{
