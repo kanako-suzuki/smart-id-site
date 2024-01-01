@@ -205,6 +205,9 @@ a:hover {
 }
 /* detail-----
 --------------------------------------------------------------------------*/
+.detail{
+	padding: 100px;
+}
 .detail img{
 	width: 100px;
 	
@@ -225,6 +228,8 @@ a:hover {
 	display: flex;
 	justify-content: space-between;
 }
+
+
 
 
 
