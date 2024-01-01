@@ -206,15 +206,17 @@ a:hover {
 /* detail-----
 --------------------------------------------------------------------------*/
 .detail{
-	padding: 100px;
+	padding: 10px;
+	font-size: 25px;
 }
 .detail img{
 	width: 100px;
-	
 }
+
 .meishi_sakusei{
 	display: flex;
 	justify-content: space-between;
+	font-size: 10px;
 }
 .qrcode_meishikoukann{
 	display: flex;
