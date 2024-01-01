@@ -182,7 +182,7 @@ a:hover {
 	grid-template-columns: 1fr 1fr;
 	
 }
-.item{
+.wrapper-grid item{
 	font-size: 20px;
 	padding: 50px;
 }
@@ -206,8 +206,9 @@ a:hover {
 /* detail-----
 --------------------------------------------------------------------------*/
 .detail{
-	padding: 10px;
+	padding: 50px;
 	font-size: 25px;
+	margin-bottom: 100px;
 }
 .detail img{
 	width: 100px;
@@ -221,17 +222,22 @@ a:hover {
 .qrcode_meishikoukann{
 	display: flex;
 	justify-content: space-between;
+	font-size: 10px;
 }
 .data_security{
 	display: flex;
 	justify-content: space-between;
+	font-size: 10px;
 }
 .tsunagari{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
+	font-size: 10px;
 }
 
-
+.h1{
+	margin-bottom: 50px;
+}
 
 
 
