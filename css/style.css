@@ -83,7 +83,7 @@ body{
 	max-width: 1300px;
 	margin: 0 auto;
 }
-nav ul li a{
+.main-nav ul li a{
 	margin: 10px;
 	text-decoration: none;
 	color: #FFFFFF;
@@ -190,7 +190,7 @@ a:hover {
 	font-size: 25px;
 	padding-bottom: 30px;
 }
-.item p{
+.item1 p{
 	padding-top: 20px;
 }
 .border-b{
@@ -202,6 +202,9 @@ a:hover {
 }
 .container{
 	padding-bottom: 50px;
+}
+a{
+		text-decoration: none;
 }
 /* detail-----
 --------------------------------------------------------------------------*/
@@ -238,9 +241,6 @@ a:hover {
 	margin-bottom: 50px;
 }
 
-.detail_wrapper{
- background-color:
-}
 
 
 /* download2-----
