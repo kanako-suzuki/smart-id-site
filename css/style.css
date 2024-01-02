@@ -210,7 +210,7 @@ a:hover {
 	font-size: 25px;
 }
 .detail img{
-	width: 100px;
+	width: 150px;
 }
 
 .meishi_sakusei{
@@ -239,11 +239,7 @@ a:hover {
 }
 
 .detail_wrapper{
-	background-image:url("../images/gradation.png");
-    background-repeat: no-repeat;
-	background-size: contain;
-	background-position: center;
-	padding: 6%;
+ background-color:
 }
 
 
