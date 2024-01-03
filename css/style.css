@@ -186,6 +186,9 @@ a:hover {
 	font-size: 20px;
 	padding: 50px;
 }
+.wrapper-grid a{
+	text-decoration: none;
+}
 .title{
 	font-size: 25px;
 	padding-bottom: 30px;
@@ -206,54 +209,62 @@ a:hover {
 a{
 		text-decoration: none;
 }
+.title{
+	text-decoration:none;
+}
 /* detail-----
 --------------------------------------------------------------------------*/
 .detail{
 	padding: 50px;
-	font-size: 25px;
-	border-bottom: thick;
-	border-bottom-color:#FFFFFF;
-	
-
+	font-size: 20px;
+	background-color: #071D36;
+}
+.detail2{
+	padding: 50px;
+	font-size: 20px;
+	background-color:#121B25;
+}
+div #2{
+	background-color:#218E7C;
 }
 .detail img{
-	width: 150px;
+	width: 180px;
 }
-
+.detail2 img{
+	width: 180px;
+}
 .meishi_sakusei{
 	display: flex;
 	justify-content: space-between;
-	font-size: 10px;
-	background-color: #071D36
+	font-size: 15px;
+	
 }
 .qrcode_meishikoukann{
 	display: flex;
 	justify-content: space-between;
-	font-size: 10px;
+	font-size: 15px;
 }
 .data_security{
 	display: flex;
 	justify-content: space-between;
-	font-size: 10px;
+	font-size: 15px;
 }
 .tsunagari{
 	display: flex;
 	justify-content: space-around;
-	font-size: 10px;
+	font-size: 15px;
 }
 
 .h1{
 	margin-bottom: 50px;
-}
-h3{
-	border-bottom: thick;
 }
 
 /* download2-----
 --------------------------------------------------------------------------*/
 .download2{
 	font-size: 30px;
-	padding: 50px;
+	padding:100px;
+	background-color:#071D36;
 }
 .download2 img{
 	padding-top: 50px;
