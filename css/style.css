@@ -211,6 +211,10 @@ a{
 .detail{
 	padding: 50px;
 	font-size: 25px;
+	border-bottom: thick;
+	border-bottom-color:#FFFFFF;
+	
+
 }
 .detail img{
 	width: 150px;
@@ -220,6 +224,7 @@ a{
 	display: flex;
 	justify-content: space-between;
 	font-size: 10px;
+	background-color: #071D36
 }
 .qrcode_meishikoukann{
 	display: flex;
@@ -240,8 +245,9 @@ a{
 .h1{
 	margin-bottom: 50px;
 }
-
-
+h3{
+	border-bottom: thick;
+}
 
 /* download2-----
 --------------------------------------------------------------------------*/
