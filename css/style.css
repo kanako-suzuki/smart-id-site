@@ -116,15 +116,15 @@ a:hover {
 }
 .main_text h1{
 	font-size: 50px;
-	padding: 50px 0 50px 0;
+	padding: 20px 0 50px 0;
 }
 
 .main_visual p{
-		font-size: 25px;
+		font-size: 18px;
 	padding-bottom: 10px;
 }
 .btn{
-	width: 212px;
+	width: 110px;
 }
 .download{
 	padding: 407px 10px 0 0;
